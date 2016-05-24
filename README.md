@@ -1,22 +1,26 @@
 # factory-image-flash-tool
 
-This repo will contain tools and commands for flashing factory images (via fastboot) for all YU devices.
+This repo will contain tools and commands [Windows] for flashing factory images (via fastboot) for all YU devices.
+
+
+YU YUREKA:
+-----------
+
+YU-OPEN-OS Marshmallow Flashing Steps & Files [here] (https://github.com/YUTeleventures/factory-image-flash-tools/tree/flashingtool-yureka)
 
 
 
 YU YUPHORIA:
 -------------
 
-LOLLIPOP Flashing Steps & Files [here] (https://github.com/YUPlayGod/factory-image-flash-tools/tree/yuphoria-lollipop-windows-flashtools)
+YU-OPEN-OS Marshmallow Flashing Steps & Files [here] (https://github.com/YUTeleventures/factory-image-flash-tools/tree/flashingtool-yuphoria)
 
 
 
-YU YUREKA:
+YU YUNIQUE:
 -----------
 
-LOLLIPOP Flashing Steps & Files [here] (https://github.com/YUPlayGod/factory-image-flash-tools/tree/yureka-lollipop-windows-flashtools)
-
-KITKAT Flashing Steps & Files [here] (https://github.com/YUPlayGod/factory-image-flash-tools/tree/yureka-kitkat-windows-flashtools)
+YU-OPEN-OS Marshmallow Flashing Steps & Files [here] (https://github.com/YUTeleventures/factory-image-flash-tools/tree/flashingtool-yunique)
 
 
 
