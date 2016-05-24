@@ -1,13 +1,13 @@
 # factory-image-flash-tool
-Package with tools to flash 32-bit STOCK ANDROID LOLLIPOP factory images on YUNIQUE
+Package with tools to flash 32-bit Marshmallow factory images on YUNIQUE
 
 ## How to
 ### Steps to flash factory image
- 1. Download the Stock Android LOLLIPOP factory image fastboot package for YU YUNIQUE from <here>
+ 1. Download the Marshmallow factory image fastboot package for YU YUNIQUE from (http://developer.yuplaygod.com/yuplaydev/index.php)
 
  2. Extract the contents of the fastboot package into a folder.
 
- 3. Download this flashing tools package from [here](https://github.com/YUPlayGod/factory-image-flash-tools/archive/yunique-stock-android-lollipop-windows-flashtools.zip)
+ 3. Download this flashing tools package from [here](https://github.com/YUTeleventures/factory-image-flash-tools/archive/flashingtool-yunique.zip)
 
  4. Extract the contents of the flashing tools zip into the same folder    
     To make sure, check that system.img, boot.img etc files are in the same
