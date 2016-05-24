@@ -1,13 +1,13 @@
 # factory-image-flash-tool
-Package with tools to flash 64-bit LOLLIPOP factory images on YUPHORIA
+Package with tools to flash 64-bit Marshmallow factory images on YUPHORIA
 
 ## How to
 ### Steps to flash factory image
- 1. Download the LOLLIPOP factory image fastboot package for YU YUPHORIA from [Here](https://cyngn.com/support/)
+ 1. Download the Marshmallow factory image fastboot package for YU YUPHORIA from [Here](http://developer.yuplaygod.com/yuplaydev/index.php)
 
  2. Extract the contents of the fastboot package into a folder.
 
- 3. Download this flashing tools package from [here](https://github.com/YUPlayGod/factory-image-flash-tools/archive/yuphoria-lollipop-windows-flashtools.zip)
+ 3. Download this flashing tools package from [here](https://github.com/YUTeleventures/factory-image-flash-tools/archive/flashingtool-yuphoria.zip)
 
  4. Extract the contents of the flashing tools zip into the same folder    
     To make sure, check that system.img, boot.img etc files are in the same
