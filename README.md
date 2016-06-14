@@ -23,6 +23,10 @@ YU YUNIQUE:
 YU-OPEN-OS Marshmallow Flashing Steps & Files [here] (https://github.com/YUTeleventures/factory-image-flash-tools/tree/flashingtool-yunique)
 
 
+YU YUTOPIA:
+-----------
+
+YU-OPEN-OS Marshmallow Flashing Steps & Files [here] (https://github.com/YUTeleventures/factory-image-flash-tools/tree/flashingtool-yutopia)
 
 ----------------------
 #### 3rd Party Licenses
